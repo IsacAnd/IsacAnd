@@ -34,10 +34,9 @@ Aplicações móveis e integração com serviços back-end.
 
 ---
 
-[![Isac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsacAnd&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsacAnd&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com?user=IsacAnd&theme=tokyonight&locale=pt_BR)
+<table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=IsacAnd&show_icons=true&theme=tokyonight&locale=pt-br" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacAnd&layout=compact&theme=tokyonight&locale=pt-br" /> </td> <td> <img src="https://streak-stats.demolab.com?user=IsacAnd&theme=tokyonight&locale=pt_BR" /> </td> </tr> </table>
 
+---
 
 <!--START_SECTION:activity-->
 
